@@ -1,6 +1,6 @@
 # Neo4j Graph database for EPL Data
 
-In this project, matches and teams of the European Premier League was given in a CSV format. Loading the CSV into Neo4j was designed and implemented along with a variety of useful queries.
+In this project, matches and teams of the English Premier League was given in a CSV format. Loading the CSV into Neo4j was designed and implemented along with a variety of useful queries.
 
 All queries are heavily commented.
 
